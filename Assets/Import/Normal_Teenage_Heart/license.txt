@@ -1,0 +1,11 @@
+Model Information:
+* title:	Normal Teenage Heart
+* source:	https://sketchfab.com/3d-models/normal-teenage-heart-fc6eda3c7c994a31a6e30c9e117353f4
+* author:	3D Heart Project (https://sketchfab.com/3DHeartProject)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Normal Teenage Heart" (https://sketchfab.com/3d-models/normal-teenage-heart-fc6eda3c7c994a31a6e30c9e117353f4) by 3D Heart Project (https://sketchfab.com/3DHeartProject) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
